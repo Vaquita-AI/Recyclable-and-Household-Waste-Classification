@@ -1,3 +1,6 @@
+----- WIP ----
+
+----- Readme from main dataset ----
 Dataset: Recyclable and Household Waste Classification
 Version: 1.0
 Date: 5/18/2024 
